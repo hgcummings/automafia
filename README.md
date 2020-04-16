@@ -1,4 +1,4 @@
-# automafia
+# Description
 
 An auto-moderated version of mafia, implemented in terrible PHP and MySQL
 
