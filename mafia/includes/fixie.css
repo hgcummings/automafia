@@ -1,0 +1,4 @@
+.right, .left { padding-top: 1em; padding-bottom: 1em; }
+fieldset{ position: relative; margin-top:1em; padding-top:.75em; padding-bottom: 1em; }
+legend { position:absolute; top: -.5em; left: .5em; }
+.nofixie { padding-bottom: 0; }

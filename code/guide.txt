@@ -1,0 +1,20 @@
+<ul>
+<li>root</li>
+<ul>
+<li>games.php - Game Browser</li>
+<li>index.php - Home/About Page</li>
+<li>login.php - Login page. Will redirect to a page in $_GET['redirect']</li>
+<li>logout.php - Logout page. Kills session and redirects to index</li>
+<li>newgame.php - Lets users browse setups and create games</li>
+<li>newsetup.php - Setup creation page</li>
+<li>register.php - Registration page</li>
+</ul>
+<li>includes</li>
+<ul>
+<li>checklogin.inc - If included will redirect users who aren't logged in to the login page</li>
+<li>footer.inc - Ends output buffering and finished HTML code</li>
+<li>groups.inc - Flat data file for group names</li>
+<li>header.inc - Starts session, output buffering and HTML code</li>
+<li>setup.inc - Client-side functionality for newsetup.php</li>
+</ul>
+</ul>
